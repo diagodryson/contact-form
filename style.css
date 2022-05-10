@@ -2,12 +2,12 @@ body{
     margin: 0px;
     padding: 0px;
     background-color: #E8F9FD;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
 }
 
 
