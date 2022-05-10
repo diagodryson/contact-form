@@ -1,0 +1,18 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #E8F9FD;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+form{
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 10px;
+}
