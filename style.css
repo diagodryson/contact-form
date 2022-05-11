@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 0px;
-    background-color: #fef1df;
+    background-color: #81db9c;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -28,3 +28,15 @@ body {
     flex-wrap: wrap;
     margin-bottom: 30px;
   }
+  form .corps-formulaire .groupe{
+      margin-top: 20px;
+      display: flex;
+      flex-direction: column;
+  }
+
+  form .corps-formulaire .gauche .groupe input{
+    margin-top: 5px;
+    padding: 10px 5px 10px 30px;
+    border: 1px solid #c9c9c9)
+  }
+  
