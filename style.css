@@ -75,3 +75,6 @@ form .pied-formulaire button{
   padding: 10px 20px;
   border-radius: 5px;
 }
+form .pied-formulaire button:hover{
+  transform: scale(1.10)
+}
