@@ -44,7 +44,7 @@ You can check the demo here: https://contact-formx.netlify.app/
 
 ## Author Info
 
-- Twitter - [@diagodryson](https://twitter.com/jamesqquick)
+- Twitter - [@diagodryson](https://twitter.com/diagodryson)
 - Linkedin - [@diagodryson](https://linkedin.com/in/diagodryson)
 
 [Back To The Top](#read-me-template)
